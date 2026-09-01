@@ -38,9 +38,6 @@
 **[ChronicRisk KE](https://github.com/AnisaML07/chronicroisk-ke)**
 Final-year capstone: ML-based chronic disease risk prediction for Kenyan adults using KDHS 2022 data.
 
-**Kenya Job Market Salary Analyzer**
-Analysis surfacing Python vs. Excel salary gaps and high-paying industries in the Kenyan job market.
-
 **California Housing Price Prediction**
 End-to-end walkthrough of the full seven-phase data science lifecycle, from problem framing to model evaluation.
 
