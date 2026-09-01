@@ -36,7 +36,7 @@
 ### 📌 Featured Projects
 
 **[ChronicRisk KE](https://github.com/AnisaML07/chronicroisk-ke)**
-Final-year capstone: ML-based chronic disease risk prediction for Kenyan adults using KDHS 2022 data. Logistic Regression models with AUC 0.744 (hypertension) and 0.760 (diabetes), SHAP explainability, and a Streamlit app — full pipeline from data cleaning through deployment.
+Final-year capstone: ML-based chronic disease risk prediction for Kenyan adults using KDHS 2022 data.
 
 **Kenya Job Market Salary Analyzer**
 Analysis surfacing Python vs. Excel salary gaps and high-paying industries in the Kenyan job market.
