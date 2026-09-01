@@ -4,10 +4,13 @@
 Show Image
 
 🔭 Currently working on ChronicRisk KE — an ML-based chronic disease risk prediction system for Kenyan adults.
+
 🌱 Currently deepening my skills in explainable AI (SHAP), model deployment, and statistical modeling
+
 📚 Expanding into deep learning (TensorFlow/Keras) and NLP.
+
 🎯 Long-term goal: growing into an AI/ML engineer
-📫 Reach me: Email | LinkedIn below
+
 🛠️ Tech Stack
 
 Show Image Show Image Show Image Show Image Show Image Show Image Show Image Show Image Show Image
