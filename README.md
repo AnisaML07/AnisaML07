@@ -27,8 +27,6 @@ Spam Email Classifier Text classification covering NLP fundamentals — text cle
 Show Image Show Image Show Image
 
 🤝 Connect with me
-LinkedIn: www.linkedin.com/in/anisa-mohamed-141170433
-Email: anisahmohamed365@gmail.com
 
-LinkedIn: 
+LinkedIn: www.linkedin.com/in/anisa-mohamed-141170433
 Email: anisahmohamed365@gmail.com
