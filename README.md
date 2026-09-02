@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anisa</h1>
-<h3 align="center">Final-year Data Science student</h3>
+<h3 align="center">Data Science student</h3>
 
 ![Profile views](https://komarev.com/ghpvc/?username=AnisaML07&color=blueviolet&style=flat)
 
